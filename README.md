@@ -2,7 +2,7 @@
 A complete implementation of an 8-bit CPU built entirely with Logisim Evolution, designed for students and hobbyists learning computer architecture.
 
 ## Project Overview
-This project provides a fully operational 8-bit CPU that illustrates fundamental concepts of digital logic and processor design. Unlike abstract theoretical models, this implementation is interactive—you can simulate instruction execution, trace signal flow, and modify components to observe behavioral changes in real time.
+This project implements a fully functional 8-bit RISC CPU from scratch, based on the core theoretical framework of the classic book But How Do It Know? - The Basic Principles of Computers for Everyone.Focusing on the practical realization of fundamental computer architecture principles, the project reproduces the complete working mechanism of an 8-bit CPU, including instruction fetch, decode, execute, memory access, and write-back stages through hardware logic design, instruction set definition, and circuit simulation or physical implementation. Unlike abstract theoretical models, this implementation is interactive—you can simulate instruction execution, trace signal flow, and modify components to observe behavioral changes in real time.
 
 ## Core Features
 - **8-bit Architecture**: 8-bit data path, 8-bit address bus (supports up to 256 bytes of memory addressing)
